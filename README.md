@@ -1,8 +1,8 @@
-## pizza
+# Pizza
 
-A website about pizza
+A website about my favorite pizza
 
-# First project
+## First Repo
 
 
 My first Repo on GitHub
